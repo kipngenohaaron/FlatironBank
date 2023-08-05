@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Bank of Flatiron is a React application that allows users to manage and view their recent bank transactions. The app fetches transaction data from a local JSON server and displays it in a table. Users can also add new transactions through a form and filter transactions based on their description using a search bar.
+Flatiron Bank is a React application that allows users to manage and view their recent bank transactions. The app fetches transaction data from a local JSON server and displays it in a table. Users can also add new transactions through a form and filter transactions based on their description using a search bar.
 
 ## Table of Contents
 
